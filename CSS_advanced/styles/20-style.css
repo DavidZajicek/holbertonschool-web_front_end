@@ -200,7 +200,7 @@ ul.row {
 }
 
 .row::after {
-    content-visibility: hidden;
+    visibility: hidden;
     display: table;
     clear: both;
 }
