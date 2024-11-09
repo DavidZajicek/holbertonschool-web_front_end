@@ -30,7 +30,7 @@
     src: url('https://fonts.googleapis.com/css?family=Raleway');
 }
 
-.box {
+* {
     box-sizing: unset;
 }
 
