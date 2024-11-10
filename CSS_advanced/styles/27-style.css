@@ -167,11 +167,11 @@ a:active {
     background-size: 90rem auto;
 }
 
-.section-title .section-hero {
+.section-hero .section-title {
     margin-bottom: 5rem;
 }
 
-.section-inner .section-hero {
+.section-hero .section-inner {
     margin: 10rem 40rem 2rem 0;
 }
 
